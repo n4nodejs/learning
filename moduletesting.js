@@ -1,4 +1,7 @@
 
 module.exports.myname = {
-    name : "rohan dhiman"
-}
+    name : "rohan dhiman",
+    myfun : function () {
+        return 8*8
+    }
+};
