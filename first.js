@@ -1,1 +1,5 @@
-console.log('test it with this command (node first) first.js file yah vah file hai jo package ke andar main me define ki hai')
+// global object in node js
+    // __dirname, __filename, require, module, export, console.log
+
+    console.log("dir path " + __dirname);
+    console.log("file path and file name " + __filename);
