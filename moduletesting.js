@@ -1,2 +1,4 @@
-const name = "rohan dhiman";
-module.exports.myname = name;
+
+module.exports.myname = {
+    name : "rohan dhiman"
+}
