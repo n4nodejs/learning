@@ -1,0 +1,1 @@
+console.log('test it with this command (node first) first.js file yah vah file hai jo package ke andar main me define ki hai')
